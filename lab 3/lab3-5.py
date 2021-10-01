@@ -1,0 +1,6 @@
+surname = input('Введите фамилию ')
+name = input('Введите имя ')
+group = input('Введите номер группы ')
+print("Привет", surname, name, 'из группы', group+'!')
+mail = input('Введите электронную почту ')
+print(surname.lower()[:5]+name.lower()[:5]*2+mail[:5]*3)
