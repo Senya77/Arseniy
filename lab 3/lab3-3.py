@@ -45,3 +45,6 @@ to define multi-line strings
 # Примечание: не забудьте о преобразовании типов.
 first = phrase[:43]
 print(first)
+
+# Here your advertisement may be
+
